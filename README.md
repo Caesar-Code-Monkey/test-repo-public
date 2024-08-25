@@ -1,2 +1,2 @@
 # test-repo-public
-wow public!@
+wow public
